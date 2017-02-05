@@ -1,0 +1,1 @@
+This is Inspired's first git project!
